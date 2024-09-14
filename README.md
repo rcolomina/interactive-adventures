@@ -1,2 +1,1 @@
-# interactive-adventures
-Interactive Adventures
+# Interactive Adventures
